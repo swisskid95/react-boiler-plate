@@ -20,6 +20,6 @@
   "homepage": "https://github.com/swisskid95/react-boiler-plate#readme",
   "devDependencies": {
     "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   }
 }
